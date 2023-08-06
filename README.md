@@ -5,7 +5,7 @@
 
 ## Overview
 
-This project provides an in-depth analysis of crime data in the City of Los Angeles from 2020 onwards, using data sourced from the LAPD API. The main objective is to identify patterns, trends, and insights that could be valuable for various stakeholders, including law enforcement, tourism agencies, and the general public.
+This project provides an in-depth analysis of crime data in the City of Los Angeles from 2020 onwards, using data sourced from the LAPD API (https://data.lacity.org/resource/2nrs-mtv8.json) https://data.lacity.org/Public-Safety/Crime-Data-from-2020-to-Present/2nrs-mtv8. The main objective is to identify patterns, trends, and insights that could be valuable for various stakeholders, including law enforcement, tourism agencies, and the general public.
 
 ## Table of Contents
 
